@@ -1,10 +1,10 @@
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, ParseMode
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackQueryHandler
 
-TOKEN = "TOKEN_BOT_ANDA"
+TOKEN = "8099048540:AAHhM8KPnThNX2TVVXk8KFXrpTFCJU4eNmo"
 
 def start(update, context):
-    welcome_message = """🏠 Hi! Lets do these all in one place:
+    welcome_message = """🏠 Hi Imam:
 
 🎙 Sampling audios and converting to voice
 😊 Adding custom reaction buttons (👍👎👏) to you messages,
